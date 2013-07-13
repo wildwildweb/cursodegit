@@ -11,8 +11,8 @@ html{
 body{
 	background:#fff;
 }
-a, 
-a:visited, 
+a,
+a:visited,
 a:active{
 	color:#000;
 	text-decoration:underline;
